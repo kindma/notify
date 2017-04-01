@@ -1,0 +1,8 @@
+E:\业务\系统托盘\Backup\系统托盘\bin\Debug\系统托盘.exe
+E:\业务\系统托盘\Backup\系统托盘\bin\Debug\系统托盘.pdb
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.csprojResolveAssemblyReference.cache
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.Form1.resources
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.Properties.Resources.resources
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.csproj.GenerateResource.Cache
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.exe
+E:\业务\系统托盘\Backup\系统托盘\obj\Debug\系统托盘.pdb

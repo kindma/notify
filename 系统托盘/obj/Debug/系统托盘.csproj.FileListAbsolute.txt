@@ -1,0 +1,16 @@
+F:\学习\c#\test\系统托盘\系统托盘\bin\Debug\系统托盘.exe
+F:\学习\c#\test\系统托盘\系统托盘\bin\Debug\系统托盘.pdb
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\ResolveAssemblyReference.cache
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\系统托盘.Form1.resources
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\系统托盘.Properties.Resources.resources
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\系统托盘.csproj.GenerateResource.Cache
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\系统托盘.exe
+F:\学习\c#\test\系统托盘\系统托盘\obj\Debug\系统托盘.pdb
+D:\系统托盘\系统托盘\obj\Debug\系统托盘.exe
+D:\系统托盘\系统托盘\obj\Debug\系统托盘.pdb
+D:\系统托盘\系统托盘\bin\Debug\系统托盘.exe
+D:\系统托盘\系统托盘\bin\Debug\系统托盘.pdb
+D:\系统托盘\系统托盘\obj\Debug\系统托盘.Form1.resources
+D:\系统托盘\系统托盘\obj\Debug\系统托盘.Properties.Resources.resources
+D:\系统托盘\系统托盘\obj\Debug\系统托盘.csproj.GenerateResource.Cache
+D:\系统托盘\系统托盘\bin\Debug\系统托盘.exe.config
